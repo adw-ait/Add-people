@@ -1,0 +1,54 @@
+.cardContent {
+  font-size: 30px;
+  font-weight: 600;
+}
+
+.editDelete {
+  border: none;
+  padding: 12px;
+  font-size: 16px;
+  margin-right: 10px;
+  border-radius: 10px;
+  font-weight: 600;
+}
+
+.delete {
+  background-color: red;
+  color: white;
+}
+
+.submit {
+  background-color: black;
+  color: white;
+}
+
+.inputHere {
+  display: inline-block;
+  /* margin: 20px; */
+}
+
+.inputCust {
+  font-size: 12px;
+}
+
+/* .right {
+  float: right;
+} */
+
+/* .card {
+  border-radius: 30px;
+} */
+
+.centerContent {
+  margin: auto;
+  width: 30%;
+  /* border: 3px solid black; */
+  padding: 10px;
+}
+html {
+  padding: 50px;
+}
+
+.submit:disabled {
+  background-color: grey;
+}
